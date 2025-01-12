@@ -1,1 +1,1 @@
-# yoga-website
+# Yoga-Website
